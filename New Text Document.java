@@ -1,9 +1,6 @@
 public class JUnitTesting {
 	
-	public int square (int x) {
-		
-		return x*x;
-	}
+
 
 	public int countA(String word)
 	{
@@ -16,7 +13,7 @@ public class JUnitTesting {
 			}
 		}
 		
-		return count;
+		
 	}
 	
 }
